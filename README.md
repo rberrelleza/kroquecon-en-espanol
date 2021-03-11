@@ -29,7 +29,7 @@ Dado que es la primera vez que se organiza, y asumiendo que las charlas las dan 
 ## Siguientes Pasos
 1. Lo organizamos? Parece que hay interés, pero habría que validar.
 2. Ver si SIG-diversity puede involucrarse.
-3. Reclutar gente que de charlas. Te interesa dar una charla? [Abre un issue!](https://github.com/rberrelleza/kubecon-en-espanol/issues)
+3. Reclutar gente que de charlas. Te interesa dar una charla? [Abre un issue!](https://github.com/rberrelleza/kubecon-en-espanol/issues/new?assignees=&labels=propuesta&template=quiero-dar-una-charla.md&title=Mi%20Charla)
 4. Decidir el modelo de la conferencia. Propongo hacer una call con los interesados el 18 de Marzo para cerrar detalles. 
 5. Website para que los asistentes se apunten.  
 6. Promocionar el evento!
