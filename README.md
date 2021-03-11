@@ -6,6 +6,9 @@ Propuesta para organizar un evento durante Kubecon EU 2021, pero 100% enfocado e
 
 La CNCF puede que no esté de acuerdo con llamarla ¡Kubecón! Habría que probar, pero hay que tener una segunda opción.
 
+## Fecha
+
+El fin de semana antes de Kubecon EU puede ser buen día, dado que ahora la gente no viajará.
 
 ## Formato
 
@@ -20,7 +23,7 @@ La CNCF puede que no esté de acuerdo con llamarla ¡Kubecón! Habría que proba
 
 ## Patrocinadores
 
-Dado que es la primera vez que se organiza, y asumiendo que las charlas las dan voluntarios, el costo puede manterse bajo. Pero estaría bien tener patrocinadores para solventar esto, y darle mas fuerza y legitimidad al evento.  También nos ayuda a tener camisetas, stickers y/o tazas de café para el evento.
+Dado que es la primera vez que se organiza, y asumiendo que las charlas las dan voluntarios, el costo puede manterse bajo. Pero estaría bien tener patrocinadores para solventar esto, y darle mas fuerza y legitimidad al evento. Okteto puede patrocinar una parte, pero estaría bien tener otros por ahí. También nos ayuda a tener camisetas, stickers y/o tazas de café para el evento.
 
 
 ## Siguientes Pasos
