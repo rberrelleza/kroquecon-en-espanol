@@ -1,4 +1,4 @@
-# Kubecon En Español
+# Evento Online durante Kubecon en Español
 
 Propuesta para organizar un evento durante Kubecon EU 2021, pero 100% enfocado en el mundo de habla en Español. 
 
@@ -8,7 +8,7 @@ La CNCF puede que no esté de acuerdo con llamarla ¡Kubecón! Habría que proba
 
 ## Fecha
 
-El fin de semana antes de Kubecon EU puede ser buen día, dado que ahora la gente no viajará.
+El fin de semana antes de Kubecon EU puede ser buen día, dado que ahora la gente no viajará. El 2 de Mayo parece buena fecha.
 
 ## Formato
 
@@ -27,9 +27,8 @@ Dado que es la primera vez que se organiza, y asumiendo que las charlas las dan 
 
 
 ## Siguientes Pasos
-1. Lo organizamos? Parece que hay interés, pero habría que validar.
-2. Ver si SIG-diversity puede involucrarse.
-3. Reclutar gente que de charlas. Te interesa dar una charla? [Abre un issue!](https://github.com/rberrelleza/kubecon-en-espanol/issues/new?assignees=&labels=propuesta&template=quiero-dar-una-charla.md&title=Mi%20Charla)
-4. Decidir el modelo de la conferencia. Propongo hacer una call con los interesados el 18 de Marzo para cerrar detalles. 
-5. Website para que los asistentes se apunten.  
-6. Promocionar el evento!
+1. Lo organizamos? Parece que hay interés, pero habría que validar. Hay poco tiempo, pero si es un evento sencillo, con voluntarios, se puede organizar. Teniendo unos 100-200 asistentes yo lo considero un éxito. 
+1. Reclutar gente que de charlas. Te interesa dar una charla? [Abre un issue!](https://github.com/rberrelleza/kubecon-en-espanol/issues/new?assignees=&labels=propuesta&template=quiero-dar-una-charla.md&title=Mi%20Charla)
+1. Decidir el modelo de la conferencia. Propongo hacer una call con los interesados el 18 de Marzo para cerrar detalles. 
+1. Website para que los asistentes se apunten.  
+1. Promocionar el evento!
